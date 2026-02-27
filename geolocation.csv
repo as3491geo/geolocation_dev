@@ -16,6 +16,7 @@
 63.216.16.224/27,JP,,Tokyo,
 63.216.17.64/28,MX,,undefined,
 63.216.17.80/28,GB,,London,
+63.216.18.16/28,MX,,Mexico city,
 63.216.18.160/28,AU,,Please Select,
 63.216.19.16/28,BH,,,
 63.218.15.201/32,UA,UA-20,Botanicheskoye,19018
@@ -154,5 +155,6 @@
 2400:8800:f8a3::/48,HK,,Hong Kong,
 2400:8800:f8a4::/48,HK,,Hong Kong,
 2400:8800:f8a5::/48,CN,,Hong Kong,
+2400:8800:f8ac::/48,MX,,Mexico city,
 2400:8800:f8b3::/48,AI,,undefined,
 2400:8800:fc00:100::/56,HK,,,
