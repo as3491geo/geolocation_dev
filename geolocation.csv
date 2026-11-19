@@ -16,6 +16,7 @@
 63.216.16.176/28,CN,,Hong Kong,
 63.216.16.208/28,BY,,,
 63.216.16.224/28,HK,,Hong Kong,
+63.216.17.0/26,MX,,Mexico city,
 63.216.18.32/28,MX,,Mexico city,
 63.216.18.48/28,MX,,Mexico city,
 63.216.18.128/28,MX,,Mexico city,
@@ -216,4 +217,5 @@
 2400:8800:f9c2::/48,MX,,Mexico city,
 2400:8800:f9c3::/48,MX,,Mexico city,
 2400:8800:f9c4::/48,CN,,Hong Kong,
+2400:8800:f9c5::/48,MX,,Mexico city,
 2400:8800:fc00:100::/56,HK,,,
